@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabiana
 - 👀 I’m an Industrial Engineering professional interested in data analysis with experience in account management.
-- 🌱 I’m currently learning about Data Analysis tools such as Visual Studio, SQL Server, Tableau, Power Bi, Jupyter and Python Pandas library.
+- 🌱 I’m currently creating Data Analysis projects using tools such as Visual Studio, SQL Server, Tableau, Power BI, Jupyter and Python Pandas library.
 - 📫 Find me on LinkedIn and Tableau Public as Fabiana Rodríguez
 
 <!---
