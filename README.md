@@ -24,7 +24,7 @@ My goal is to apply my analytical skills to extract meaningful insights from dat
 
 ## Contact 📫
 
-Find me on LinkedIn https://bit.ly/LinkedInFabianaRodriguez and Tableau Public as Fabiana Rodríguez for more details about my experience and projects..
+Find me on LinkedIn https://bit.ly/LinkedInFabianaRodriguez and Tableau Public as Fabiana Rodríguez for more details about my experience and projects.
 
 Thanks for visiting my repository 💙
 <!---
