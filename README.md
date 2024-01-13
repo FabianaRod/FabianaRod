@@ -3,6 +3,8 @@
 Hi, I'm **Fabiana**, an Industrial Engineering professional interested in **data**, with a commercial management strong background. 
 I am now embarking on an exciting transition into the world of data analytics, so I decided to create this repository that I have built over the lasts few months 🦾.
 
+I should also mention that I speak **Spanish** (native), **English** and **French**. 🌎
+
 ## Professional Experience 🚀
 
 With almost 6 years of experience, I have cultivated analytical and problem solving skills throughout my career. For the past years, I have worked in the B2B and B2C commercial area, managing corporate accounts and clients. This experience has provided me with a unique understanding of customer needs and the importance of making data-driven decisions.
