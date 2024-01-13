@@ -17,7 +17,7 @@ With almost 6 years of experience, I have cultivated analytical and problem solv
 
 ## Featured Projects 🌟
 
-- **SQL Server Integration Services (SSIS) Project using Visual Studio:** Took me a while but ended up solving connections, creating variables and containers, converting data, managing lookups and derived columns, also aggregations and sorting, among other tools (https://bit.ly/SSISProjectFabiana).
+- **ETL Project using Visual Studio:** Took me a while but ended up solving connections, creating variables and containers, converting data, managing lookups and derived columns, also aggregations and sorting, among other tools (https://bit.ly/SSISProjectFabiana).
 - **Contoso Sales DAX Project:** Applied almost 60 different calculations using DAX. (https://bit.ly/ProyectoContosoSalesDAXFabianaRodriguez).
 
 ## Future Objectives 🎯
