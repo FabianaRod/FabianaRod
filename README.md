@@ -18,7 +18,9 @@ With almost 6 years of experience, I have cultivated analytical and problem solv
 ## Featured Projects 🌟
 
 - **ETL Project using Visual Studio:** Took me a while but ended up solving connections, creating variables and containers, converting data, managing lookups and derived columns, also aggregations and sortings, among others (https://bit.ly/SSISProjectFabiana).
-- **Contoso Sales DAX Project:** Applied almost 60 different calculations using DAX. (https://bit.ly/ProyectoContosoSalesDAXFabianaRodriguez).
+- **Contoso Sales DAX Project:** Applied almost 60 different calculations using DAX (https://bit.ly/ProyectoContosoSalesDAXFabianaRodriguez).
+- **Python Showcase:** How to populate files, clean data, perform exploratory analysis and visualizations (https://bit.ly/pythonshowcase).
+- **SQL Covid-19:** Data cleaning and data exploration on Covid-19 deaths from Peru and worldwide (https://bit.ly/SQLCovid19).
 
 ## Future Goals 🎯
 
